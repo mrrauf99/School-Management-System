@@ -1,0 +1,4 @@
+Amna Wajid,Don't know,M.Phil BS Computer Engineering,Programming Fundamentals,0346674567,Jora Sian,TCH1122,amna99,amna786
+Majid Hussain,Don't Know,Ph.D Math,MA123 Calculus,0365476572,Jora Sian,TCH2244,majid01,majid99
+Adnan,Don't know,Ph.D Mathematics,Discrete Mathematics,03464664664,Model Town GRW,TCH5566,adnan33,Adnan97
+Bilal,Don't Know,M.Phil Physics,Applied Physics,0318686818,Pindi Bhattian,TCH8899,bilal49,Bilal99
