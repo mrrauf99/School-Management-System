@@ -23,7 +23,7 @@ The system includes three login roles, each with dedicated functionalities:
 👁️ View student profile
 
 🛠️ Tech Stack
-
+--------------
 . Language: C++
 . IDE: Dev C++
 . Platform: Console-based (Command Line Interface)
