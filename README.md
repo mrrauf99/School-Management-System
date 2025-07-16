@@ -2,10 +2,8 @@
 -------------------------------------
 A console-based School Management System developed in C++ using Dev C++ as a first-semester project. This beginner-friendly project is built using arrays, functions, and basic file handling, making it perfect for those just starting out with C++ programming.
 
-🚀 Features
-------------
-The system includes three login roles, each with dedicated functionalities:
-
+🔐 User Roles & Features
+-
 👨‍💼 Admin
 ---------
 ➕ Add student and teacher records  
