@@ -1,4 +1,5 @@
 🎓 School Management System (C++) 📚
+-------------------------------------
 A console-based School Management System developed in C++ using Dev C++ as a first-semester project. This beginner-friendly project is built using arrays, functions, and basic file handling, making it perfect for those just starting out with C++ programming.
 
 🚀 Features
